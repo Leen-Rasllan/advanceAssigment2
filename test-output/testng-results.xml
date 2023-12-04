@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T04:55:17 EET" name="Default suite" finished-at="2023-12-04T04:55:43 EET" duration-ms="25961">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T04:55:17 EET" name="Default test" finished-at="2023-12-04T04:55:43 EET" duration-ms="25961">
+      <class name="labMagento.magentoTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:labMagento.magentoTestCases@29e6eb25]" started-at="2023-12-04T04:55:17 EET" name="setup" finished-at="2023-12-04T04:55:20 EET" duration-ms="3049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CreatAnAcount()[pri:1, instance:labMagento.magentoTestCases@29e6eb25]" started-at="2023-12-04T04:55:20 EET" name="CreatAnAcount" finished-at="2023-12-04T04:55:25 EET" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatAnAcount -->
+        <test-method signature="logOut()[pri:2, instance:labMagento.magentoTestCases@29e6eb25]" started-at="2023-12-04T04:55:25 EET" name="logOut" finished-at="2023-12-04T04:55:33 EET" duration-ms="8155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method signature="logIn()[pri:3, instance:labMagento.magentoTestCases@29e6eb25]" started-at="2023-12-04T04:55:33 EET" name="logIn" finished-at="2023-12-04T04:55:43 EET" duration-ms="9551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method is-config="true" signature="posttest()[pri:0, instance:labMagento.magentoTestCases@29e6eb25]" started-at="2023-12-04T04:55:43 EET" name="posttest" finished-at="2023-12-04T04:55:43 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posttest -->
+      </class> <!-- labMagento.magentoTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
